@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+# Application dependencies and generated output
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+*.log

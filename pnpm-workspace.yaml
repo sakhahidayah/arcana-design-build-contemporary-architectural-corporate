@@ -1,0 +1,7 @@
+useNodeVersion: 24.22.2
+engineStrict: true
+saveExact: true
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - unrs-resolver
